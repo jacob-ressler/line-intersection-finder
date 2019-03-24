@@ -22,7 +22,9 @@ Executable JAR files for all versions are available under the `_releases` direct
 
 To launch the application, simply double-click the file. The following command can also be used to launch the application from a terminal:
 
-`java -jar "LineIntersectionFinder(v1.0).jar"`
+```bash
+java -jar "LineIntersectionFinder(v1.0).jar"
+```
 
 _**Note** that the version number in the command should be identical to version number of the JAR file you have downloaded for it to work properly._
 
@@ -30,11 +32,15 @@ _**Note** that the version number in the command should be identical to version 
 
 After downloading the `src` folder, use the following command to generate the class files:
 
-`javac IntersectionCanvas.java IntersectionFrame.java`
+```bash
+javac IntersectionCanvas.java IntersectionFrame.java
+```
 
 To launch the application, use the command:
 
-`java IntersectionFrame`
+```bash
+java IntersectionFrame
+```
 
 ### **How to Use**
 
@@ -46,4 +52,3 @@ All you have to do after launching the application is select 4 points on the can
 - CIS 457 Computer Graphics
 - Cleveland State University
 - Spring 2019
-
