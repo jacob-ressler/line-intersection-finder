@@ -4,7 +4,7 @@ You know, for when you lose your line intersection.
 
 ![lineintersectionfinder](https://user-images.githubusercontent.com/37934912/54873765-316a1a80-4db4-11e9-9758-f757f6791b78.png)
 
-This is a simple Java Swing application to calculate and display the intersection of 2 lines. As it currently stands, the program can handles and differentiates between the following scenarios:
+This is a simple Java Swing application to calculate and display the intersection of 2 lines. As it currently stands, the program can handle and differentiate between the following scenarios:
 
 - Intersection of the 2 selected line segments
 - Intersection of the 2 lines outside of the selected segments
